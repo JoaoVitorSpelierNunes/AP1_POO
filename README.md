@@ -1,9 +1,7 @@
 # 💻 Atividade de Programação em Java  
 **Curso:** Análise e Desenvolvimento de Sistemas – Ulbra  
 **Disciplina:** Programação Orientada a Objetos  
-**Professor(a):** *[Nome do Professor(a)]*  
-**Aluno:** *[Seu Nome]*  
-**Data de Entrega:** *[Coloque a data]*  
+**Aluno:** *[João Vitor Spleier Nunes]*  
 
 ---
 
@@ -128,4 +126,4 @@ Uso do Git e GitHub para versionamento e documentação.
 🏁 Considerações Finais
 Este projeto tem como finalidade reforçar a prática da lógica de programação e dos fundamentos da linguagem Java, preparando o aluno para desafios mais avançados em Programação Orientada a Objetos.
 
-🔗 Repositório GitHub: https://github.com/seuusuario/atividade-programacao-java
+🔗 Repositório GitHub: https://github.com/seuusuario/atividade-programacao-java](https://github.com/JoaoVitorSpelierNunes/AP1_POO
