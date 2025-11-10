@@ -1,7 +1,7 @@
 # 💻 Atividade de Programação em Java  
 **Curso:** Análise e Desenvolvimento de Sistemas – Ulbra  
 **Disciplina:** Programação Orientada a Objetos  
-**Aluno:** *[João Vitor Spleier Nunes]*  
+**Aluno:** *João Vitor Spleier Nunes*  
 
 ---
 
