@@ -18,17 +18,22 @@ Cada tarefa propõe a criação de uma classe Java independente, com foco na res
 
 ## 🧱 Estrutura do Projeto  
 
-📁 src/
+📁 src/main/java/AP1
+
 ├── CalculadoraDesconto.java
+
 ├── CalculadoraITBI.java
+
 ├── SistemaAvaliacao.java
+
 ├── CalculadoraAposentadoria.java
+
 ├── CircuitoResistencias.java
+
 ├── SistemaLogin.java
+
 └── GeradorTabuada.java
 
-yaml
-Copiar código
 
 ---
 
@@ -106,27 +111,8 @@ Desenvolva uma classe que:
 
 ## 🚀 Como Executar os Programas  
 
-1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/seuusuario/atividade-programacao-java.git
-Acesse o diretório do projeto:
 
-bash
-Copiar código
-cd atividade-programacao-java
-Compile e execute a classe desejada:
-
-bash
-Copiar código
-javac src/NomeDaClasse.java
-java src.NomeDaClasse
-🔹 Exemplo:
-
-bash
-Copiar código
-javac src/CalculadoraDesconto.java
-java src.CalculadoraDesconto
-🧠 Conceitos Praticados
+## 🧠 Conceitos Praticados
 Utilização de Scanner e JOptionPane para entrada de dados.
 
 Aplicação de condicionais (if/else) e loops (for/while).
@@ -137,16 +123,7 @@ Organização do código em classes independentes.
 
 Uso do Git e GitHub para versionamento e documentação.
 
-📚 Critérios de Avaliação
-✅ Correção do código conforme os requisitos.
 
-✅ Organização e clareza do código.
-
-✅ Uso correto dos conceitos de programação em Java.
-
-✅ Commits claros e descritivos.
-
-✅ Presença de um README.md completo e bem estruturado.
 
 🏁 Considerações Finais
 Este projeto tem como finalidade reforçar a prática da lógica de programação e dos fundamentos da linguagem Java, preparando o aluno para desafios mais avançados em Programação Orientada a Objetos.
