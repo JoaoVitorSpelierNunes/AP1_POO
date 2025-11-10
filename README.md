@@ -107,8 +107,6 @@ Desenvolva uma classe que:
 
 ---
 
-## 🚀 Como Executar os Programas  
-
 
 ## 🧠 Conceitos Praticados
 Utilização de Scanner e JOptionPane para entrada de dados.
@@ -122,8 +120,5 @@ Organização do código em classes independentes.
 Uso do Git e GitHub para versionamento e documentação.
 
 
-
-🏁 Considerações Finais
-Este projeto tem como finalidade reforçar a prática da lógica de programação e dos fundamentos da linguagem Java, preparando o aluno para desafios mais avançados em Programação Orientada a Objetos.
 
 🔗 Repositório GitHub: https://github.com/seuusuario/atividade-programacao-java](https://github.com/JoaoVitorSpelierNunes/AP1_POO
